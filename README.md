@@ -1,1 +1,1 @@
-# tum_algorithm_exercises
+# TUM_PraktikumCourse_algorithm_exercises
